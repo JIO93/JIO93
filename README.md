@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Ortiz</h1>
-<h3 align="center">I am a Systems Administrator that is learning everything he can about DevOps tools and practices, so I can hopefully break into the space in to the new future!</h3>
+<h3 align="center">I am a Systems Administrator that is learning everything he can about DevOps tools and practices, so I can hopefully break into the space in the near future!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jio93&label=Profile%20views&color=0e75b6&style=flat" alt="jio93" /> </p>
 
